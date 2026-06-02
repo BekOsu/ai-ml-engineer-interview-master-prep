@@ -1,3 +1,0 @@
-# NumPy
-
-Coming soon...

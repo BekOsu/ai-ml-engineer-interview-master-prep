@@ -1,3 +1,0 @@
-# Concurrency
-
-Coming soon...
